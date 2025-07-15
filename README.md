@@ -1,0 +1,1 @@
+Desenvolvimento de uma aplicação simples que permite ao usuário definir um intervalo (número mínimo e máximo) para gerar números aleatórios entre esses valores. Projeto criado com HTML, CSS e JavaScript, com foco em lógica de programação.
